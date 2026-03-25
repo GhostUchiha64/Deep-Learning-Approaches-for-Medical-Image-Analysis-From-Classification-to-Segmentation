@@ -28,14 +28,9 @@ The project synthesizes current research — referencing *Advances in Deep Learn
 ```
 FInal Deliverables - Team 7/
 ├── README.md
-├── Project Proposal - Team 7.pdf/.docx       # Initial project scope and objectives
-├── Progress Report - Team 7.pdf/.docx         # Mid-project progress and preliminary findings
-├── Final Report - Team 7.pdf/.docx            # Comprehensive final research report
-├── Code.docx                                   # Code documentation and implementation details
-├── Deep Learning Approaches for Medical
-│   Image Analysis Team 7 Final PPT.pptx        # Final presentation slides
-└── Advances in Deep Learning Based
-    Medical Image Analysis.pdf                  # Reference/survey paper
+├── Project Proposal.pdf      # Initial project scope and objectives
+├── Final Report.pdf          # Comprehensive final research report
+└── 
 ```
 
 ---

@@ -42,10 +42,10 @@ FInal Deliverables - Team 7/
 
 ## Key Findings
 
-- Deep learning models, particularly CNNs and U-Net variants, significantly outperform traditional computer vision methods on medical imaging benchmarks
-- Transfer learning from ImageNet-pretrained models reduces the data requirements for medical image tasks
-- Data augmentation (including GAN-based synthesis) is critical for improving model generalization on small medical datasets
-- Interpretability tools (Grad-CAM, saliency maps) are essential for clinical adoption of DL-based diagnostic systems
+- Deep learning models, particularly CNNs and U-Net variants, significantly outperform traditional computer vision methods on medical imaging benchmarks.
+- Transfer learning from ImageNet-pretrained models reduces the data requirements for medical image tasks.
+- Data augmentation (including GAN-based synthesis) is critical for improving model generalization on small medical datasets.
+- Interpretability tools (Grad-CAM, saliency maps) are essential for clinical adoption of DL-based diagnostic systems.
 
 ---
 

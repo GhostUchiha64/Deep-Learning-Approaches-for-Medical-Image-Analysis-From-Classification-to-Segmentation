@@ -30,7 +30,7 @@ FInal Deliverables - Team 7/
 ├── README.md
 ├── Project Proposal.pdf      # Initial project scope and objectives
 ├── Final Report.pdf          # Comprehensive final research report
-└── 
+└── code - python
 ```
 
 ---

@@ -1,0 +1,24 @@
+# System Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Large Data Files
+*.csv
+*.zip
+*.sqlite
+*.db
+*.tar.gz
+
+# IDE
+.vscode/
+.idea/

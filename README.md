@@ -14,12 +14,12 @@ The project synthesizes current research — referencing *Advances in Deep Learn
 
 ## Topics Covered
 
-- **Convolutional Neural Networks (CNNs)** for medical image classification
-- **Encoder-Decoder Architectures** (e.g., U-Net) for image segmentation
-- **Transfer Learning** with pretrained models (ResNet, VGG, DenseNet) on medical datasets
-- **Object Detection** frameworks applied to radiology and pathology imaging
-- **Generative Models** (GANs) for data augmentation in limited medical datasets
-- **Challenges in medical imaging:** class imbalance, annotation scarcity, interpretability
+- **Convolutional Neural Networks (CNNs)** for medical image classification.
+- **Encoder-Decoder Architectures** (e.g., U-Net) for image segmentation.
+- **Transfer Learning** with pretrained models (ResNet, VGG, DenseNet) on medical datasets.
+- **Object Detection** frameworks applied to radiology and pathology imaging.
+- **Generative Models** (GANs) for data augmentation in limited medical datasets.
+- **Challenges in medical imaging:** class imbalance, annotation scarcity, interpretability.
 
 ---
 
